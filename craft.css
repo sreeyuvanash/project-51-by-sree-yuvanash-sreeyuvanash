@@ -1,0 +1,11 @@
+body{
+    background: radial-gradient(circle, rgb(0, 0, 0) 0%, rgb(93, 93, 93) 100%);
+
+}
+.video{
+    background-color: black;
+    text-align: center;
+
+    color: honeydew;
+    font-size: 200px;
+}
